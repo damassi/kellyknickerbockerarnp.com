@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "prettier": {
+    "bracketSpacing": true,
+    "proseWrap": "always",
+    "semi": false,
+    "singleQuote": false,
+    "trailingComma": "es5"
+  }
+}
